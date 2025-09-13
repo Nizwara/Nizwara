@@ -4,7 +4,7 @@
   <h1>👋 Halo, Saya <strong><a href="https://github.com/Nizwara">Niswara</a></strong>!</h1>
   <p>🚀 Developer | 🌱 Belajar & Berkembang | 💡 Membuat Solusi Digital</p>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=70&lines=Selamat+Datang+di+Profil+Saya;Saya+seorang+Newbie;Belajar+Setiap+Hari;Belajar+perlahan,+tapi+pasti;Tidak+perlu+cepat,+yang+penting+konsisten;Berkontribusi+untuk+Komunitas" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=70&lines=Selamat+Datang+di+Profil+Saya;Saya+seorang+Newbie;Belajar+Setiap+Hari;Belajar+perlahan,+tapi+pasti;Tidak+perlu+cepat;,yang+penting+konsisten;Berkontribusi+untuk+Komunitas" alt="Typing Animation" />
 
   <br>
 
