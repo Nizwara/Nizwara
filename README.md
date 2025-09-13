@@ -4,7 +4,7 @@
   <h1>👋 Halo, Saya <strong><a href="https://github.com/Nizwara">Niswara</a></strong>!</h1>
   <p>🚀 Developer | 🌱 Belajar & Berkembang | 💡 Membuat Solusi Digital</p>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=70&lines=Selamat+Datang+di+Profil+Saya;Belajar+Setiap+Hari;Berkontribusi+untuk+Komunitas" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=70&lines=Selamat+Datang+di+Profil+Saya;Belajar+Setiap+Hari;Saya+seorang+newbie+yang+semangat+belajar!" alt="Typing Animation" />
 
   <br>
 
@@ -17,13 +17,6 @@
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nizwara&theme=radical&hide_border=false" alt="GitHub Streak" />
-
-  <br>
-
-  <!-- NEW: Newbie Badge / Tagline -->
-  <p style="font-size: 1.2rem; color: #ff9800; font-weight: bold; margin: 1rem 0;">
-    👶 Saya Masih Baru (Newbie) — Tapi Semangat Belajarnya Tak Terbatas!
-  </p>
 
   <br>
 
